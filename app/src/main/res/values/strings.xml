@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Metronome</string>
+    <string name="metronome_start" translatable="false">&#x25B6;</string>
+    <string name="metronome_stop" translatable="false">&#x25A0;</string>
+</resources>
